@@ -1,4 +1,9 @@
 # Kodziaki-team
 kodziaki kodziaki
 Lista obecnosci
-DAWID Murawski
+
+1. Paweł Pinker
+2. marta kostyk
+3. Mikolaj
+4. DAWID Murawski
+
